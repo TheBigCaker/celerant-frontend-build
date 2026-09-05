@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "route": "/api/*",
+      "rewrite": "https://celerant-backend.agreeablemeadow-3f37c30d.westus2.azurecontainerapps.io/api/*"
+    },
+    {
+      "route": "*",
+      "rewrite": "/index.html"
+    }
+  ]
+}
