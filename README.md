@@ -104,3 +104,4 @@ For Azure Static Web Apps:
 Based on the original Celerant Desktop Application (Python Swing UI)
 Frontend port created with React and TypeScript
 Trigger rebuild at Fri Sep  4 17:36:53 PDT 2026
+Trigger rebuild at Fri Sep  4 17:37:00 PDT 2026
